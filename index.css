@@ -11,3 +11,40 @@ body{
      padding: 30px;
 
 }
+.search-form-input{
+    background-color:rgb(231, 132, 132);
+    border: none;
+    border-radius: 7px;
+    width: 70%;
+    font-size: 18px;
+    padding: 16px 21px;
+
+}
+.search-button{
+    background:rgba(231,132,132) ;
+    padding:16px 21px ;
+    border: none;
+    margin-left: 11px;
+    border-radius: 7px;
+    color: whitesmoke;
+    font-size: 18px;
+}
+header{
+    border-bottom: 1px solid rgba(231,132,132);
+    padding: 0 0 31px 0;
+
+}
+footer{
+    border-top:1px solid rgb(231, 132, 132) ;
+    padding: 31px 0 0 0;
+    text-align: center;
+    font-size: 18px;
+    color: whitesmoke;
+    font-weight: bold;
+}
+a{
+    color: rgb(231, 132, 132);
+}
+main{
+    padding: 31px 0;
+}
