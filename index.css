@@ -48,3 +48,36 @@ a{
 main{
     padding: 31px 0;
 }
+.app-data{
+    display: flex;
+    justify-content: space-between;
+}
+.app-city{
+    margin: 0;
+    font-size: 38px;
+    line-height: 49px;
+}
+.app-details{
+    font-size: 18px;
+    line-height: 20px;
+    color: rgb(103, 98, 98);
+}
+.app-details strong{
+    color: rgb(231, 132, 132);
+}
+.temperature-container{
+    display: flex;
+}
+.app-temperature{
+    font-size: 89px;
+    font-weight: bold;
+    margin-left: 15px;
+}
+.app-icon{
+    font-size: 45px;
+    margin-top: 11px;
+}
+.app-unit{
+    margin-top: 33px;
+    font-size: 29px;
+}
